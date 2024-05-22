@@ -1,0 +1,42 @@
+# SBT
+target/
+lib_managed/
+src_managed/
+.project
+.buildpath
+.classpath
+.cache
+.settings
+.idea
+.DS_Store
+.ensime
+.ensime_cache
+*.log
+*.lock
+bin/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Spark
+.metastore_db/
+derby.log
+
+# Application specific
+output/
+
+# Generic
+*.class
+*.log
+*.swp
+*~
+# End of generic
